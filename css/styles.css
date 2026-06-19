@@ -747,6 +747,30 @@ ul {
   color: var(--cyan);
 }
 
+.footer-faq {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.footer-faq-item {
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.footer-faq-item a {
+  color: rgba(255, 255, 255, 0.8);
+  transition: color var(--transition);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding-bottom: 0.25rem;
+}
+
+.footer-faq-item a:hover {
+  color: var(--cyan);
+  border-bottom-color: var(--cyan);
+}
+
 .footer-social {
   display: flex;
   gap: 1rem;
@@ -831,7 +855,7 @@ ul {
   }
 
   .footer-grid {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
   }
 }
 

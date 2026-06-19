@@ -1,0 +1,306 @@
+[
+  {
+    "id": "radiance-renewal-serum",
+    "name": "Radiance Renewal Serum",
+    "category": "Serum",
+    "price": 68,
+    "badge": "Bestseller",
+    "shortDesc": "A potent vitamin C complex that brightens, firms, and restores youthful luminosity.",
+    "fullDesc": "Our signature Radiance Renewal Serum combines stabilized vitamin C with ferulic acid and vitamin E to deliver clinically proven brightening results. This lightweight serum absorbs instantly to visibly reduce fine lines, improve skin texture, and restore a vibrant, youthful glow. Perfect for all skin types.",
+    "benefits": [
+      "Brightens and evens skin tone",
+      "Reduces appearance of fine lines and wrinkles",
+      "Boosts collagen production",
+      "Protects against environmental damage",
+      "Restores radiance and luminosity"
+    ],
+    "usage": "Apply 2-3 drops to clean, dry face and neck in the morning. Follow with moisturizer and SPF. For best results, use twice daily.",
+    "ingredients": "Ascorbic Acid (Vitamin C 15%), Ferulic Acid, Tocopherol (Vitamin E), Hyaluronic Acid, Aloe Vera Extract",
+    "image": "https://images.unsplash.com/photo-1620916564558-054497a0db96?w=600&q=80"
+  },
+  {
+    "id": "hydra-barrier-cream",
+    "name": "Hydra Barrier Cream",
+    "category": "Moisturizer",
+    "price": 54,
+    "badge": "",
+    "shortDesc": "Deep hydration with ceramides and hyaluronic acid to strengthen your skin's natural barrier.",
+    "fullDesc": "Formulated with a unique blend of ceramides, hyaluronic acid, and niacinamide, this luxurious cream provides intense hydration while reinforcing your skin's protective barrier. Suitable for all skin types, especially dry and sensitive skin.",
+    "benefits": [
+      "Intensely hydrates and nourishes skin",
+      "Strengthens skin barrier function",
+      "Reduces irritation and redness",
+      "Locks in moisture for 24 hours",
+      "Improves skin texture and firmness"
+    ],
+    "usage": "Apply a generous amount to clean, damp face and neck. Gently massage until fully absorbed. Use morning and evening.",
+    "ingredients": "Ceramide NP, Ceramide AP, Hyaluronic Acid, Niacinamide (Vitamin B3), Centella Asiatica Extract, Glycerin",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=600&q=80"
+  },
+  {
+    "id": "pure-clarity-cleanser",
+    "name": "Pure Clarity Cleanser",
+    "category": "Cleanser",
+    "price": 38,
+    "badge": "New",
+    "shortDesc": "Gentle yet effective gel cleanser that purifies without stripping essential moisture.",
+    "fullDesc": "This pH-balanced gel cleanser gently removes makeup, oil, and impurities without disrupting your skin's natural pH or stripping away essential moisture. Infused with botanical extracts for a refreshing clean that leaves skin soft and supple.",
+    "benefits": [
+      "Removes makeup and impurities effectively",
+      "Maintains skin's natural pH balance",
+      "Non-stripping formula",
+      "Removes oil without over-drying",
+      "Leaves skin refreshed and soft"
+    ],
+    "usage": "Wet face with lukewarm water. Apply a dime-sized amount to hands, lather gently, and massage onto face for 30-60 seconds. Rinse thoroughly with water. Use twice daily.",
+    "ingredients": "Sodium Cocoyl Isethionate, Glycerin, Tea Tree Extract, Chamomile Extract, Aloe Vera Leaf Juice, Panthenol",
+    "image": "https://images.unsplash.com/photo-1570194065650-d99fb4b31112?w=600&q=80"
+  },
+  {
+    "id": "botanical-essence",
+    "name": "Botanical Essence",
+    "category": "Essence",
+    "price": 42,
+    "badge": "",
+    "shortDesc": "Lightweight plant-powered essence that preps skin and delivers an instant hydration boost.",
+    "fullDesc": "A delicate blend of botanical extracts including green tea, rose water, and ginseng, this essence prepares your skin for better absorption of subsequent products while delivering instant hydration and a natural glow.",
+    "benefits": [
+      "Boosts skin hydration instantly",
+      "Preps skin for better product absorption",
+      "Provides antioxidant protection",
+      "Soothes and calms irritated skin",
+      "Adds natural radiance"
+    ],
+    "usage": "After cleansing, dispense 3-4 drops onto clean hands or a cotton pad. Gently pat onto face and neck, allowing to absorb. Use morning and evening before serum and moisturizer.",
+    "ingredients": "Rose Water, Green Tea Extract, Panax Ginseng Root Extract, Hyaluronic Acid, Glycerin, Witch Hazel Extract",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&q=80"
+  },
+  {
+    "id": "overnight-recovery-mask",
+    "name": "Overnight Recovery Mask",
+    "category": "Mask",
+    "price": 62,
+    "badge": "",
+    "shortDesc": "Intensive peptide treatment that works while you sleep to repair and rejuvenate tired skin.",
+    "fullDesc": "This innovative overnight mask combines peptides, retinol, and botanical extracts to repair, brighten, and rejuvenate your skin while you sleep. Wake up to visibly smoother, more radiant skin with improved texture and firmness.",
+    "benefits": [
+      "Intensive overnight repair treatment",
+      "Reduces fine lines and wrinkles",
+      "Improves skin texture and smoothness",
+      "Brightens and evens skin tone",
+      "Restores elasticity and firmness"
+    ],
+    "usage": "Apply a generous layer to clean face and neck before bedtime. Leave on overnight (7-8 hours). Rinse with lukewarm water in the morning. Use 3-4 times per week.",
+    "ingredients": "Peptide Complex, Retinol 0.3%, Jasmine Extract, Lavender Oil, Squalane, Ceramide Complex",
+    "image": "https://images.unsplash.com/photo-1617897903246-719242758050?w=600&q=80"
+  },
+  {
+    "id": "complete-ritual-set",
+    "name": "Complete Ritual Set",
+    "category": "Set",
+    "price": 145,
+    "badge": "Gift Set",
+    "shortDesc": "Our full three-step routine in travel-friendly sizes — cleanse, treat, and moisturize.",
+    "fullDesc": "The perfect introduction to Zerona Derma or a gift for skincare enthusiasts. This set includes our bestselling cleanser, serum, and moisturizer in convenient travel sizes, giving you a complete skincare ritual wherever you go.",
+    "benefits": [
+      "Complete 3-step skincare routine",
+      "Travel-friendly sizes",
+      "Saves 15% versus individual products",
+      "Perfect gift for skincare lovers",
+      "Dermatologist-tested and approved"
+    ],
+    "usage": "Use as a complete morning and evening routine: Cleanse with Pure Clarity Cleanser, apply Radiance Renewal Serum, and finish with Hydra Barrier Cream.",
+    "ingredients": "See individual product pages for detailed ingredient lists",
+    "image": "https://images.unsplash.com/photo-1570554886115-80fbcce963b1?w=600&q=80"
+  },
+  {
+    "id": "retinol-renewal-cream",
+    "name": "Retinol Renewal Cream",
+    "category": "Moisturizer",
+    "price": 72,
+    "badge": "Professional Grade",
+    "shortDesc": "Advanced retinol formula that smooths, brightens, and reduces visible signs of aging.",
+    "fullDesc": "Our professional-grade retinol cream delivers powerful anti-aging benefits with time-released retinol technology that minimizes irritation while maximizing results. Clinically proven to reduce wrinkles, improve firmness, and enhance overall skin texture.",
+    "benefits": [
+      "Reduces fine lines and deep wrinkles",
+      "Improves skin firmness and elasticity",
+      "Brightens and evens complexion",
+      "Increases cell turnover",
+      "Enhances skin texture over time"
+    ],
+    "usage": "Begin 2-3 times per week in the evening on clean, dry skin. Use pea-sized amount. Gradually increase frequency as skin builds tolerance. Always use SPF 30+ during the day.",
+    "ingredients": "Retinol 0.5%, Squalane, Peptide Complex, Ceramide NP, Niacinamide, Jojoba Oil",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&q=80"
+  },
+  {
+    "id": "exfoliating-enzyme-powder",
+    "name": "Exfoliating Enzyme Powder",
+    "category": "Exfoliant",
+    "price": 48,
+    "badge": "",
+    "shortDesc": "Gentle physical exfoliant with natural enzymes for smooth, radiant skin without irritation.",
+    "fullDesc": "This innovative powder exfoliant uses natural fruit enzymes and fine particles to gently remove dead skin cells without harsh scrubbing. Mix with water to create a creamy paste that leaves skin smooth, refined, and luminous.",
+    "benefits": [
+      "Gently removes dead skin cells",
+      "Improves skin texture and clarity",
+      "Non-irritating formula",
+      "Brightens dull complexion",
+      "Enhances absorption of other products"
+    ],
+    "usage": "Mix 1 teaspoon powder with a small amount of water to form a paste. Gently massage onto clean, damp face using circular motions for 1-2 minutes. Rinse thoroughly. Use 2-3 times per week.",
+    "ingredients": "Papaya Enzyme, Pumpkin Powder, Fine Bamboo Particles, Oat Extract, Chamomile Extract, Aloe Vera",
+    "image": "https://images.unsplash.com/photo-1570194065650-d99fb4b31112?w=600&q=80"
+  },
+  {
+    "id": "youth-eye-contour-serum",
+    "name": "Youth Eye Contour Serum",
+    "category": "Eye Care",
+    "price": 58,
+    "badge": "",
+    "shortDesc": "Specialized serum targeting fine lines, puffiness, and dark circles around delicate eye area.",
+    "fullDesc": "Formulated specifically for the delicate eye area, this lightweight serum combines caffeine, peptides, and hydrating ingredients to target fine lines, reduce puffiness, and minimize dark circles. Results visible in just 2 weeks.",
+    "benefits": [
+      "Reduces fine lines and crow's feet",
+      "Minimizes dark circles",
+      "Decreases puffiness and under-eye bags",
+      "Hydrates delicate skin",
+      "Strengthens and lifts skin around eyes"
+    ],
+    "usage": "Apply a small amount around eye area morning and evening. Gently tap with ring finger until absorbed. Do not apply directly on eyelid. Avoid contact with eyes.",
+    "ingredients": "Caffeine, Peptide Complex, Hyaluronic Acid, Vitamin K, Arnica Extract, Panthenol",
+    "image": "https://images.unsplash.com/photo-1620916564558-054497a0db96?w=600&q=80"
+  },
+  {
+    "id": "skin-barrier-serum",
+    "name": "Skin Barrier Serum",
+    "category": "Serum",
+    "price": 65,
+    "badge": "Sensitive Skin",
+    "shortDesc": "Calming serum that repairs and strengthens compromised skin barriers.",
+    "fullDesc": "Specifically designed for sensitive and reactive skin, this barrier-repair serum combines ceramides, panthenol, and soothing botanical extracts to restore skin's protective function and reduce irritation.",
+    "benefits": [
+      "Repairs damaged skin barrier",
+      "Reduces redness and irritation",
+      "Strengthens skin's natural defenses",
+      "Soothes sensitivity",
+      "Improves skin comfort"
+    ],
+    "usage": "Apply to clean skin morning and evening. Use 2-3 drops, gently patting until absorbed. Can be used under or mixed with moisturizer.",
+    "ingredients": "Ceramide Complex, Panthenol, Centella Asiatica Extract, Beta-Glucan, Allantoin, Glycerin",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=600&q=80"
+  },
+  {
+    "id": "hyaluronic-hydration-toner",
+    "name": "Hyaluronic Hydration Toner",
+    "category": "Toner",
+    "price": 45,
+    "badge": "",
+    "shortDesc": "Lightweight hydrating toner that plumps skin and prepares it for serums.",
+    "fullDesc": "This alcohol-free toner is packed with hyaluronic acid and niacinamide to hydrate, balance pH, and prepare skin for maximum absorption of treatments. Leaves skin feeling refreshed, plump, and ready for serums.",
+    "benefits": [
+      "Intensely hydrates skin",
+      "Balances skin pH",
+      "Prepares skin for serums",
+      "Tightens pores",
+      "Refreshes and revitalizes skin"
+    ],
+    "usage": "After cleansing, apply to face and neck with a cotton pad or by gently patting with hands. Allow to absorb before applying serum or moisturizer. Use morning and evening.",
+    "ingredients": "Hyaluronic Acid, Niacinamide (Vitamin B3), Glycerin, Allantoin, Centella Asiatica Extract, Rose Water",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&q=80"
+  },
+  {
+    "id": "squalane-oil-supplement",
+    "name": "Squalane Oil Supplement",
+    "category": "Oil",
+    "price": 52,
+    "badge": "Multi-Use",
+    "shortDesc": "Lightweight, non-comedogenic oil that hydrates without heaviness.",
+    "fullDesc": "Plant-derived squalane mimics skin's natural oils perfectly. This lightweight supplement can be used alone, mixed with moisturizer, or added to serums for customizable hydration without clogging pores.",
+    "benefits": [
+      "Lightweight, non-comedogenic hydration",
+      "Mimics skin's natural oils",
+      "Multi-use formula",
+      "Works with all skin types",
+      "Improves skin suppleness"
+    ],
+    "usage": "Apply 1-2 drops to face morning or evening. Can be used alone or mixed with other products. Adjust amount based on skin needs.",
+    "ingredients": "Plant-derived Squalane 99%+, Tocopherol (Vitamin E), Natural Antioxidants",
+    "image": "https://images.unsplash.com/photo-1617897903246-719242758050?w=600&q=80"
+  },
+  {
+    "id": "brightening-vitamin-c-mask",
+    "name": "Brightening Vitamin C Mask",
+    "category": "Mask",
+    "price": 55,
+    "badge": "Weekly Boost",
+    "shortDesc": "Intensive weekly treatment that brightens, firms, and boosts radiance instantly.",
+    "fullDesc": "This creamy wash-off mask combines stabilized vitamin C with antioxidants and peptides for an intensive weekly brightening treatment. Visible results in just 15 minutes, with lasting improvements over time.",
+    "benefits": [
+      "Instantly brightens and clarifies",
+      "Boosts radiance and luminosity",
+      "Firms and tightens skin",
+      "Reduces dullness",
+      "Improves texture and tone"
+    ],
+    "usage": "Apply even layer to clean face, avoiding eyes and lips. Leave on for 10-15 minutes. Rinse with lukewarm water. Use once weekly for best results.",
+    "ingredients": "Ascorbic Acid (Vitamin C 10%), Peptide Complex, Gold Particle Extract, Kaolin Clay, Glycerin, Ginseng Extract",
+    "image": "https://images.unsplash.com/photo-1570554886115-80fbcce963b1?w=600&q=80"
+  },
+  {
+    "id": "peptide-firming-neck-serum",
+    "name": "Peptide Firming Neck Serum",
+    "category": "Serum",
+    "price": 61,
+    "badge": "",
+    "shortDesc": "Specialized serum that targets neck and décolletage for lifted, firm appearance.",
+    "fullDesc": "Often neglected, the neck area shows signs of aging first. This targeted serum combines potent peptides, retinol, and firming botanicals to lift, tighten, and improve skin texture on the neck and décolletage.",
+    "benefits": [
+      "Lifts and firms neck area",
+      "Reduces crepey texture",
+      "Improves skin elasticity",
+      "Evens skin tone",
+      "Visible results in 4 weeks"
+    ],
+    "usage": "Apply to clean neck and décolletage, gently stroking upward. Use morning and evening. Allow to dry before applying other products.",
+    "ingredients": "Peptide Complex, Retinol 0.3%, Horsetail Extract, Caffeine, Hyaluronic Acid, Squalane",
+    "image": "https://images.unsplash.com/photo-1620916564558-054497a0db96?w=600&q=80"
+  },
+  {
+    "id": "sunscreen-spf50",
+    "name": "Sunscreen SPF 50",
+    "category": "Sun Care",
+    "price": 44,
+    "badge": "Daily Essential",
+    "shortDesc": "Lightweight, non-greasy broad-spectrum SPF 50 for daily protection.",
+    "fullDesc": "This ultra-lightweight sunscreen provides broad-spectrum protection against UVA/UVB rays without leaving a white cast or heavy residue. Water-resistant formula that doesn't interfere with makeup.",
+    "benefits": [
+      "Broad-spectrum SPF 50 protection",
+      "Non-greasy, lightweight formula",
+      "Water-resistant for 80 minutes",
+      "No white cast",
+      "Won't interfere with makeup"
+    ],
+    "usage": "Apply generously to face and neck 15 minutes before sun exposure. Reapply every 2 hours or after swimming. Use daily year-round.",
+    "ingredients": "Zinc Oxide 15%, Titanium Dioxide 5%, Hyaluronic Acid, Aloe Vera Extract, Vitamin E, Centella Asiatica",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=600&q=80"
+  },
+  {
+    "id": "cellular-renewal-complex",
+    "name": "Cellular Renewal Complex",
+    "category": "Treatment",
+    "price": 85,
+    "badge": "Luxury Line",
+    "shortDesc": "Advanced treatment that stimulates cellular turnover and promotes skin regeneration.",
+    "fullDesc": "Our most advanced formula combines stem cell technology, peptides, and restorative botanicals to deeply stimulate cellular renewal and regeneration. The result is visibly younger, healthier-looking skin.",
+    "benefits": [
+      "Stimulates cellular turnover",
+      "Promotes skin regeneration",
+      "Reduces visible signs of aging",
+      "Improves skin vitality",
+      "Enhances natural glow"
+    ],
+    "usage": "Apply 2-3 drops to clean face and neck morning and evening. Gently massage until absorbed. Can be used before or after serum. Avoid eye area.",
+    "ingredients": "Stem Cell Extract, Peptide Complex, Restorative Botanicals, Hyaluronic Acid, Squalane, Panthenol",
+    "image": "https://images.unsplash.com/photo-1617897903246-719242758050?w=600&q=80"
+  }
+]

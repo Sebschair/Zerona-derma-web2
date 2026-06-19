@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Discover the full details of our premium skincare products.">
+  <title>Product Details | Zerona Derma</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Josefin+Sans:wght@300;400&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="icon" type="image/svg+xml" href="../assets/logo-icon.svg">
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <div class="container">
+      <a href="../index.html" class="nav-logo">
+        <img src="../assets/logo-icon.svg" alt="Zerona Derma icon">
+        <div class="nav-logo-text">
+          <span class="brand-name">Zerona</span>
+          <span class="brand-sub">Derma</span>
+        </div>
+      </a>
+
+      <nav>
+        <ul class="nav-links">
+          <li><a href="../products.html">Products</a></li>
+          <li><a href="../ingredients.html">Ingredients</a></li>
+          <li><a href="../reviews.html">Reviews</a></li>
+          <li><a href="../about.html">About</a></li>
+          <li><a href="../index.html#contact">Contact</a></li>
+        </ul>
+      </nav>
+
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <!-- Breadcrumb Navigation -->
+    <section class="breadcrumb" style="padding-top: calc(var(--nav-height) + 2rem); padding-bottom: 1rem;">
+      <div class="container">
+        <a href="../products.html" class="breadcrumb-link">← Back to Products</a>
+      </div>
+    </section>
+
+    <!-- Product Detail Section -->
+    <section class="product-detail" style="padding: 3rem 0;">
+      <div class="container">
+        <div class="product-detail-layout">
+          <!-- Product Image -->
+          <div class="product-detail-image">
+            <img id="detailImage" src="" alt="Product" class="detail-image">
+            <span id="detailBadge" class="product-badge" style="display: none;"></span>
+          </div>
+
+          <!-- Product Info -->
+          <div class="product-detail-info">
+            <p id="detailCategory" class="product-category"></p>
+            <h1 id="detailName" class="product-detail-title"></h1>
+            <p id="detailPrice" class="product-detail-price"></p>
+
+            <p id="detailFullDesc" class="product-detail-desc"></p>
+
+            <!-- Key Benefits -->
+            <div class="product-benefits">
+              <h3 class="benefits-title">Key Benefits</h3>
+              <ul id="benefitsList" class="benefits-list"></ul>
+            </div>
+
+            <!-- Usage Instructions -->
+            <div class="product-usage">
+              <h3 class="usage-title">How to Use</h3>
+              <p id="detailUsage" class="usage-text"></p>
+            </div>
+
+            <!-- Ingredients -->
+            <div class="product-ingredients">
+              <h3 class="ingredients-title">Key Ingredients</h3>
+              <p id="detailIngredients" class="ingredients-text"></p>
+            </div>
+
+            <!-- Add to Cart Button -->
+            <button class="btn btn-primary" style="margin-top: 2rem; width: 100%;">Add to Cart</button>
+          </div>
+        </div>
+
+        <!-- Related Products -->
+        <section class="related-products" style="margin-top: 5rem;">
+          <h2 class="section-title" style="text-align: center; margin-bottom: 3rem;">You Might Also Like</h2>
+          <div class="products-grid" id="relatedGrid" style="grid-template-columns: repeat(3, 1fr);">
+            <!-- Related products loaded dynamically -->
+          </div>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-subscription">
+          <h3 class="footer-subscription-title">Keep In Touch</h3>
+          <p class="footer-subscription-desc">Subscribe to receive updates and exclusive offers</p>
+          <form class="subscription-form" onsubmit="event.preventDefault(); alert('Thank you for subscribing!');">
+            <div class="subscription-input-group">
+              <input type="email" placeholder="Enter your email" required class="subscription-input">
+              <button type="submit" class="subscription-button">Subscribe</button>
+            </div>
+          </form>
+          
+          <div class="footer-contact">
+            <p class="footer-contact-label">Contact Us</p>
+            <a href="tel:+1234567890" class="footer-phone">+1 (234) 567-890</a>
+          </div>
+
+          <div class="footer-social">
+            <a href="https://instagram.com/zeronaderm" target="_blank" rel="noopener noreferrer" aria-label="Instagram">Instagram</a>
+            <a href="https://facebook.com/zeronaderm" target="_blank" rel="noopener noreferrer" aria-label="Facebook">Facebook</a>
+            <a href="https://tiktok.com/@zeronaderm" target="_blank" rel="noopener noreferrer" aria-label="TikTok">TikTok</a>
+          </div>
+        </div>
+
+        <div class="footer-faq">
+          <h4 class="footer-heading">FAQ</h4>
+          <div class="footer-faq-item">
+            <a href="../faqs.html">How long before I see results?</a>
+          </div>
+          <div class="footer-faq-item">
+            <a href="../faqs.html">What is your return policy?</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2026 Zerona Derma. All rights reserved.</p>
+        <div class="footer-bottom-links">
+          <a href="../pp.html">Privacy Policy</a>
+          <a href="../tos.html">Terms of Service</a>
+          <a href="../cs.html">Cookie Settings</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../js/product-detail.js"></script>
+  <script src="../js/main.js"></script>
+</body>
+</html>

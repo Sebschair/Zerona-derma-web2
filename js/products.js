@@ -25,7 +25,7 @@ function renderProducts(products) {
         <p class="product-desc">${product.shortDesc}</p>
         <div class="product-footer">
           <span class="product-price">$${product.price.toFixed(2)}</span>
-          <a href="product.html?id=${product.id}" class="product-link">View Details →</a>
+          <a href="products/product.html?id=${product.id}" class="product-link">View Details →</a>
         </div>
       </div>
     </article>
